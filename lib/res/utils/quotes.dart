@@ -7,4 +7,10 @@ List<QuoteModel> quotes = [
   //   quotes: "A single paper cant decide my future",
   //   category: Category.motivational,
   // )
+  QuoteModel(
+    yourName: "Ahammed hinas kk",
+    quotes:
+        "Wisdom is not about knowing all the answers. It's about knowing where to find them.",
+    category: Category.wisdom,
+  ),
 ];
